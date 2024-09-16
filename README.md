@@ -20,3 +20,8 @@
  - Rol: GAME ILLUSTRATOR: Me gusta mucho ilustrar bocetos y  me gustaria verlos reflejados en algun videojuego.
  - ubicación: UNAD.ZCBOY - Tunja.
  - Perfil: Estudiante de Ingeniería Multimedia,  mis expectativas de este curso son aprender y adquirir muchos mas conocimientos para una carrera en la industria del desarrollo de videojuegos ya que me gusta mucho la ilustración.
+
+ ##### Viviana Niño
+ - Rol: Diseñador de audio: me siento identificada con las habilidades que requiere el rol de diseñador de audio ya que en la carrera de ingeniería multimedia he aprendido a crear sonidos de Foley y también a hacer uso de bancos de sonido y programas de edición.
+ ubicación: UNAD.ZCBOY - Tunja.
+ 
