@@ -23,5 +23,5 @@
 
  ##### Viviana Niño
  - Rol: Diseñador de audio: me siento identificada con las habilidades que requiere el rol de diseñador de audio ya que en la carrera de ingeniería multimedia he aprendido a crear sonidos de Foley y también a hacer uso de bancos de sonido y programas de edición.
- ubicación: UNAD.ZCBOY - Tunja.
- 
+ - Ubicación: UNAD.ZCBOY - Tunja.
+
